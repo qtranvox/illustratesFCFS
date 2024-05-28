@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCFS", "FCFS\FCFS.csproj", "{196FF865-1F8B-4854-8687-BE6CDF2E55CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196FF865-1F8B-4854-8687-BE6CDF2E55CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196FF865-1F8B-4854-8687-BE6CDF2E55CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196FF865-1F8B-4854-8687-BE6CDF2E55CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196FF865-1F8B-4854-8687-BE6CDF2E55CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D37A9AA4-8DCE-41E7-AEDA-A54419CE8C86}
+	EndGlobalSection
+EndGlobal

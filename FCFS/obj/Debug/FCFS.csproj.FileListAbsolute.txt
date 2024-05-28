@@ -1,0 +1,39 @@
+C:\Users\truon\Desktop\FCFS\FCFS\bin\Debug\FCFS.exe.config
+C:\Users\truon\Desktop\FCFS\FCFS\bin\Debug\FCFS.exe
+C:\Users\truon\Desktop\FCFS\FCFS\bin\Debug\FCFS.pdb
+C:\Users\truon\Desktop\FCFS\FCFS\obj\Debug\FCFS.csproj.AssemblyReference.cache
+C:\Users\truon\Desktop\FCFS\FCFS\obj\Debug\FCFS.csproj.SuggestedBindingRedirects.cache
+C:\Users\truon\Desktop\FCFS\FCFS\obj\Debug\FCFS.Form1.resources
+C:\Users\truon\Desktop\FCFS\FCFS\obj\Debug\FCFS.Properties.Resources.resources
+C:\Users\truon\Desktop\FCFS\FCFS\obj\Debug\FCFS.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\FCFS\FCFS\obj\Debug\FCFS.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\FCFS\FCFS\obj\Debug\FCFS.exe
+C:\Users\truon\Desktop\FCFS\FCFS\obj\Debug\FCFS.pdb
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\bin\Debug\FCFS.exe.config
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\bin\Debug\FCFS.exe
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\bin\Debug\FCFS.pdb
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\obj\Debug\FCFS.csproj.AssemblyReference.cache
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\obj\Debug\FCFS.csproj.SuggestedBindingRedirects.cache
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\obj\Debug\FCFS.Form1.resources
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\obj\Debug\FCFS.Properties.Resources.resources
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\obj\Debug\FCFS.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\obj\Debug\FCFS.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\obj\Debug\FCFS.exe
+C:\Users\truon\Desktop\FCFS\FCFS\FCFS\obj\Debug\FCFS.pdb
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\bin\Debug\FCFS.exe.config
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\bin\Debug\FCFS.exe
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\bin\Debug\FCFS.pdb
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.csproj.AssemblyReference.cache
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.csproj.SuggestedBindingRedirects.cache
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.Form1.resources
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.Properties.Resources.resources
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.csproj.GenerateResource.cache
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.csproj.CoreCompileInputs.cache
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.exe
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.pdb
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\bin\Debug\Guna.UI2.dll
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.csproj.CopyComplete
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\bin\Debug\FCFS.exe.manifest
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\bin\Debug\FCFS.application
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.exe.manifest
+D:\HCMUE\2-HK2\4. Hệ điều hành\.Project CK\FCFS\FCFS\FCFS\obj\Debug\FCFS.application
